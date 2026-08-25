@@ -15,7 +15,7 @@ st.set_page_config(
 # ══════════════════════════════════════════════════════════════════
 #  CONSTANTS
 # ══════════════════════════════════════════════════════════════════
-GROQ_MODEL     = "llama-3.1-8b-instant"
+GROQ_MODEL     = "openai/gpt-oss-20b"
 CONTEXT_WINDOW = 20
 ENTITY_TYPES   = {"PERSON", "GPE", "ORG", "EVENT", "NORP", "FAC", "LOC"}
 
